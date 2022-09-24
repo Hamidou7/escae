@@ -119,7 +119,7 @@
                             </div>
                             <div class="col-lg-2 d-none d-lg-block">
                                 <div class="apply-btn-area">
-                                    <a href="#" class="apply-now-btn">Se connecter</a>
+                                    <a href="{{route('login')}}" class="apply-now-btn">Se connecter</a>
                                 </div>
                             </div>
                         </div>
