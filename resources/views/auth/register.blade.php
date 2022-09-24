@@ -18,12 +18,9 @@
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
-<body class="hold-transition register-page">
+<body class="hold-transition register-page"style="background:url('img/1.jpg');background-repeat:no-repeat; background-size:cover;">
 <div class="register-box">
- <div>
-    <img src="img/logo.png" class="center" style="margin-top: 200px; height: 100px; width: 100px;margin-left:130px;" alt="">
- </div>
-
+ 
   <div class="card">
     <div class="card-body register-card-body">
       <p class="login-box-msg">Enregistrer Utilisateur</p>
