@@ -41,11 +41,7 @@ return array(
     'Ramsey\\Collection\\' => array($vendorDir . '/ramsey/collection/src'),
     'Psy\\' => array($vendorDir . '/psy/psysh/src'),
     'Psr\\SimpleCache\\' => array($vendorDir . '/psr/simple-cache/src'),
-<<<<<<< HEAD
-    'Psr\\Log\\' => array($vendorDir . '/psr/log/src'),
-=======
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
->>>>>>> e05c0d7f544440c1771da467edf337426f5dedb4
     'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-factory/src', $vendorDir . '/psr/http-message/src'),
     'Psr\\Http\\Client\\' => array($vendorDir . '/psr/http-client/src'),
     'Psr\\EventDispatcher\\' => array($vendorDir . '/psr/event-dispatcher/src'),
