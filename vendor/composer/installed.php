@@ -3,7 +3,11 @@
         'name' => 'laravel/laravel',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
+<<<<<<< HEAD
         'reference' => 'a919eb760242353a853473d6faaa34a2323856f3',
+=======
+        'reference' => 'b4dc246f0eefe2066f46d206f8e59e2cd7d032b4',
+>>>>>>> e05c0d7f544440c1771da467edf337426f5dedb4
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -39,15 +43,6 @@
             'replaced' => array(
                 0 => '*',
             ),
-        ),
-        'dflydev/dot-access-data' => array(
-            'pretty_version' => 'v3.0.1',
-            'version' => '3.0.1.0',
-            'reference' => '0992cc19268b259a39e86f296da5f0677841f42c',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../dflydev/dot-access-data',
-            'aliases' => array(),
-            'dev_requirement' => false,
         ),
         'doctrine/inflector' => array(
             'pretty_version' => '2.0.5',
@@ -397,7 +392,11 @@
         'laravel/laravel' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
+<<<<<<< HEAD
             'reference' => 'a919eb760242353a853473d6faaa34a2323856f3',
+=======
+            'reference' => 'b4dc246f0eefe2066f46d206f8e59e2cd7d032b4',
+>>>>>>> e05c0d7f544440c1771da467edf337426f5dedb4
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -439,21 +438,21 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'league/commonmark' => array(
-            'pretty_version' => '2.3.5',
-            'version' => '2.3.5.0',
-            'reference' => '84d74485fdb7074f4f9dd6f02ab957b1de513257',
+        'laravel/ui' => array(
+            'pretty_version' => 'v3.4.6',
+            'version' => '3.4.6.0',
+            'reference' => '65ec5c03f7fee2c8ecae785795b829a15be48c2c',
             'type' => 'library',
-            'install_path' => __DIR__ . '/../league/commonmark',
+            'install_path' => __DIR__ . '/../laravel/ui',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'league/config' => array(
-            'pretty_version' => 'v1.1.1',
-            'version' => '1.1.1.0',
-            'reference' => 'a9d39eeeb6cc49d10a6e6c36f22c4c1f4a767f3e',
+        'league/commonmark' => array(
+            'pretty_version' => '1.6.7',
+            'version' => '1.6.7.0',
+            'reference' => '2b8185c13bc9578367a5bf901881d1c1b5bbd09b',
             'type' => 'library',
-            'install_path' => __DIR__ . '/../league/config',
+            'install_path' => __DIR__ . '/../league/commonmark',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
@@ -514,24 +513,6 @@
             'reference' => '01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../nesbot/carbon',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
-        'nette/schema' => array(
-            'pretty_version' => 'v1.2.2',
-            'version' => '1.2.2.0',
-            'reference' => '9a39cef03a5b34c7de64f551538cbba05c2be5df',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../nette/schema',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
-        'nette/utils' => array(
-            'pretty_version' => 'v3.2.8',
-            'version' => '3.2.8.0',
-            'reference' => '02a54c4c872b99e4ec05c4aec54b5a06eb0f6368',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../nette/utils',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
@@ -644,9 +625,9 @@
             'dev_requirement' => true,
         ),
         'psr/container' => array(
-            'pretty_version' => '1.1.2',
-            'version' => '1.1.2.0',
-            'reference' => '513e0666f7216c7459170d56df27dfcefe1689ea',
+            'pretty_version' => '1.1.1',
+            'version' => '1.1.1.0',
+            'reference' => '8622567409010282b7aeebe4bb841fe98b58dcaf',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psr/container',
             'aliases' => array(),
