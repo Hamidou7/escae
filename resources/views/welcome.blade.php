@@ -69,6 +69,9 @@
                                 <nav id="desktop-nav">
                                     <ul>
                                         <li class="active"><a href="index.html">Accueil</a>
+                                        
+                                        </li>
+                                        <li class="active"><a href="index.html">Accueil</a>
 
                                         </li>
                                         <li><a href="#">A propos</a>
