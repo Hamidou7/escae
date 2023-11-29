@@ -216,9 +216,7 @@
                     <div class="slider-content s-tb slide-2">
                         <div class="title-container s-tb-c">
                             <div class="title1">Une équipe dynamique </div>
-                            <p>Emply dummy text of the printing and typesetting industry orem Ipsum has been the industry's standard
-                                <br>dummy text ever sinceprinting and typesetting industry. </p>
-
+                            
                         </div>
                     </div>
                 </div>
@@ -226,9 +224,6 @@
                     <div class="slider-content s-tb slide-3">
                         <div class="title-container s-tb-c">
                             <div class="title1">Une formation de qualité</div>
-                            <p>Emply dummy text of the printing and typesetting industry orem Ipsum has been the industry's standard
-                                <br>dummy text ever sinceprinting and typesetting industry. </p>
-
                         </div>
                     </div>
                 </div>
@@ -260,7 +255,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 service-box1">
                             <div class="service-box-content">
-                                <h3><a href="#">Bibliothèque</a></h3>
+                                <h3><a href="#">Bibliothèque en ligne</a></h3>
                                 <p>les livres les plus récents.</p>
                             </div>
                             <div class="service-box-icon">
@@ -457,13 +452,13 @@
         </div>
         <!-- Courses 1 Area End Here -->
         <!-- Video Area Start Here -->
-        <div class="video-area overlay-video bg-common-style" style="background-image: url('img/banner/1.jpg');">
+        <div class="video-area overlay-video bg-common-style" style="background-image: url('img/1.jpg');">
             <div class="container">
                 <div class="video-content">
-                    <h2 class="video-title">Watch Campus Life Video Tour</h2>
-                    <p class="video-sub-title">Vmply dummy text of the printing and typesetting industryorem
-                        <br>Ipsum industry's standard dum an unknowramble.</p>
-                    <a class="play-btn popup-youtube wow bounceInUp" data-wow-duration="2s" data-wow-delay=".1s" href="https://www.youtube.com/watch?v=-61z7V0mPfE"><i class="fa fa-play" aria-hidden="true"></i></a>
+                    <h2 class="video-title">Cérémonie de graduation</h2>
+                    <p class="video-sub-title">Rémise de diplôme de la 6 <sup>ème</sup> promtion
+                        <br>parrainée par Me Demba TRAORE.</p>
+                    <a class="play-btn popup-youtube wow bounceInUp" data-wow-duration="2s" data-wow-delay=".1s" href="https:https://youtu.be/F-NQeRP7C1Y"><i class="fa fa-play" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
